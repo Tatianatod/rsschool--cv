@@ -3,3 +3,4 @@ const plus = (a, b) => {
     return c + a
 };
 const minus = (a, b) => a - b;
+const multiply = (a,b) => a * b;
